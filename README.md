@@ -2,10 +2,10 @@
 
 # Hi there, I'm Faiz Iqbal 👋
 
-**System Engineer** at **Tata Consultancy Services**  
+**Data Engineer** at **Tata Consultancy Services**  
 **Electronics & Communication Engineering Graduate** from **Jamia Millia Islamia '24**
 
-📍 New Delhi, India | 🌐 [faiz.in](https://faiz.in)
+📍 New Delhi, India | 🌐 [faiz.in](https://ifaiz.in)
 
 ---
 
