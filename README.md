@@ -2,7 +2,8 @@
 
 # Hi there, I'm Faiz Iqbal 👋
 
-**Data Engineer** at **Tata Consultancy Services**  
+**Software Engineer** at **Coding Ninjas**  
+**Prev. Data Engineer** at **Tata Consultancy Services**  
 **Electronics & Communication Engineering Graduate** from **Jamia Millia Islamia '24**
 
 📍 New Delhi, India | 🌐 [faiz.in](https://ifaiz.in)
